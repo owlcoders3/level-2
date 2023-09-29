@@ -1,0 +1,2 @@
+w=int(input())
+print("%.2f"%(w*2.2))
